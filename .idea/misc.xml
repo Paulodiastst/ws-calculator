@@ -8,6 +8,9 @@
         <entry key="..\:/workspaces/ws-calculator/app/src/main/res/drawable/shape_numero_normal.xml" value="0.37864583333333335" />
         <entry key="..\:/workspaces/ws-calculator/app/src/main/res/drawable/shape_numero_selecionado.xml" value="0.37864583333333335" />
         <entry key="..\:/workspaces/ws-calculator/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/workspaces/ws-calculator/ws-calculator/app/src/main/res/drawable/botao_numero_clicado.xml" value="0.37864583333333335" />
+        <entry key="..\:/workspaces/ws-calculator/ws-calculator/app/src/main/res/drawable/shape_numero_selecionado.xml" value="0.37864583333333335" />
+        <entry key="..\:/workspaces/ws-calculator/ws-calculator/app/src/main/res/layout/activity_main.xml" value="0.3625" />
       </map>
     </option>
   </component>
